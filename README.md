@@ -1,1 +1,1 @@
-# SensorFaultDetectionInueron
+# SensorFaultDetectionIneuron
